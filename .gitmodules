@@ -1,0 +1,4 @@
+[submodule "package/kernel/r8168"]
+	path = package/kernel/r8168
+	url = https://github.com/heri16/r8168.git
+	branch = master
